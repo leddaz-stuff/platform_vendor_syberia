@@ -27,6 +27,13 @@
          in hardware. -->
     <bool name="config_setColorTransformAccelerated">true</bool>
 
+    <string-array name="config_locationExtraPackageNames" translatable="false">
+        <!-- CneApp -->
+        <item>com.qualcomm.qti.cne</item>
+        <!-- ImsService -->
+        <item>com.shannon.imsservice</item>
+    </string-array>
+
     <!-- Minimum color temperature, in Kelvin, supported by Night display. -->
     <integer name="config_nightDisplayColorTemperatureMin">1600</integer>
 
