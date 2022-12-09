@@ -33,6 +33,9 @@
         <item>systemui/back_gesture_ml_model_name=backgesture</item>
         <item>systemui/back_gesture_ml_model_threshold=0.8</item>
 
+        <!-- Enable the new and advanced Privacy Hub -->
+        <item>privacy/safety_center_is_enabled=true</item>
+
         <!-- ART heap compaction for cached apps -->
         <item>activity_manager/use_compaction=true</item>
 
